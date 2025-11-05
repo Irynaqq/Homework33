@@ -11,18 +11,6 @@
 ✅ Підтримка sourcemaps  
 ✅ Автоматичне копіювання HTML у dist/
 
-## 📁 Структура проєкту
-project/
-│── src/
-│ ├── scss/
-│ │ └── style.scss
-│ └── index.html
-│
-│── dist/ // генерується автоматично
-│── gulpfile.js
-│── package.json
-│── .gitignore
-
 ## 🚀 Команди
 
 |    Команда      |                 Опис                           |
